@@ -50,7 +50,8 @@ def show_graph():
     plt.show()
 
 def main():
-    show_graph()
+    # show_graph()
+    print(walk(4))
 
 if __name__ == '__main__':
     main()
