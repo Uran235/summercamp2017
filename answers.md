@@ -74,3 +74,16 @@
 Или же связь catch\_rate и hatch\_counter. Получается, что чем ниже catch\_rate, тем выше hatch\_counter и наоборот.
 
 ![catch to hatch](7.png)
+
+# Задание 2. Ответ.
+
+## Проект
+
+[GithubProject](https://github.com/Uran235/summercamp2017)
+
+## Пуш
+
+![push commit](8.png)
+
+# Задание 3. Ответ.
+
